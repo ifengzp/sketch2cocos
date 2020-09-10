@@ -1,0 +1,17 @@
+{
+  "name": "sketch2cocos",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/sketch2cocos": {
+      "message": "sketch2cocos:open"
+    }
+  },
+  "scene-script": "scene-walker.js",
+  "dependencies": {
+    "@imgcook/cli": "^0.1.9",
+    "request": "^2.88.2"
+  }
+}

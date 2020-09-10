@@ -1,0 +1,84 @@
+{
+  "taskId": "A61AC7FB-39EF-4911-AE94-A978559DA497",
+  "pluginVersion": "2.3.0",
+  "reference": "sketch",
+  "type": "Block",
+  "id": "Block_1",
+  "__VERSION__": "2.0",
+  "props": {
+    "style": { "width": 667, "height": 375 },
+    "attrs": { "x": 0, "y": 0 }
+  },
+  "children": [
+    {
+      "__VERSION__": "2.0",
+      "props": {
+        "style": { "width": 667, "height": 375 },
+        "attrs": {
+          "x": 0,
+          "y": 0,
+          "source": "https://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/cad3f780f34a11ea8b3fe79b4b1f3338.png"
+        }
+      },
+      "type": "Image",
+      "selfId": "76BD5AE0-3094-4E89-9BD5-F8DA22B200FD",
+      "children": [],
+      "originType": "Other",
+      "nodeLayerName": "bg",
+      "id": "Image_0"
+    },
+    {
+      "__VERSION__": "2.0",
+      "props": {
+        "style": { "width": 110, "height": 92 },
+        "attrs": {
+          "x": 96,
+          "y": 52,
+          "source": "https://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/cb62ca00f34a11eaa5f59b1a3cde8b02.png"
+        }
+      },
+      "type": "Image",
+      "selfId": "CECFC536-B8D6-4C58-871D-53371AA5FFD4",
+      "children": [],
+      "originType": "Other",
+      "nodeLayerName": "星形",
+      "id": "Image_1"
+    },
+    {
+      "__VERSION__": "2.0",
+      "props": {
+        "style": { "width": 110, "height": 92 },
+        "attrs": {
+          "x": 221,
+          "y": 209,
+          "source": "https://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/cba8aca0f34a11eabf7d571dacc06705.png"
+        }
+      },
+      "type": "Image",
+      "selfId": "46A782B6-0729-4B4D-BEF0-4A79E980A322",
+      "children": [],
+      "originType": "Other",
+      "nodeLayerName": "星形",
+      "id": "Image_2"
+    },
+    {
+      "__VERSION__": "2.0",
+      "props": {
+        "style": { "width": 91, "height": 73 },
+        "attrs": {
+          "x": 450,
+          "y": 80,
+          "source": "https://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/cbd9a7b0f34a11eab1ebc9810b726468.png"
+        }
+      },
+      "type": "Image",
+      "selfId": "54CCAD6F-BA56-4EFF-9FC6-933D144DBC4E",
+      "children": [],
+      "originType": "Other",
+      "nodeLayerName": "bird",
+      "id": "Image_3"
+    }
+  ],
+  "name": "iPhone 8",
+  "artboardImg": "https://ai-sample.oss-cn-hangzhou.aliyuncs.com/test/cee14260f34a11ea91bfb91000e32eb0.png"
+}
